@@ -17,6 +17,8 @@
 
 /*
   Add written explanation of your solution here
+  // Use a quadratic search
+  // Hit the middle, compare the word at the beginning with the word at the end.
 */
 
 // You can run `node index.js` to view these console logs
